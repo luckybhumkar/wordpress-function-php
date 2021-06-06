@@ -19,5 +19,6 @@ else window.onload = downloadJSAtOnload;
 </script>
 <!--/noptimize-->
 <?php
-}};
+};
 //END: Custom JS script at footer
+//Remove or comment line from AdSense Ad-Script ➔ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
